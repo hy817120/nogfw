@@ -1,9 +1,10 @@
 ### 一键翻墙软件合集
 
+<a href="https://github.com/gfw-breaker/nogfw/blob/master/binary/u1802.zip?raw=true" targe="_blank">无界PC版18.02</a> &nbsp; 
+<a href="https://github.com/gfw-breaker/nogfw/blob/master/binary/um4.3.apk?raw=true" targe="_blank">无界安卓版4.3</a>
 
-[无界PC版18.02]() &nbsp; [无界安卓版4.3]()
+<a href="https://github.com/gfw-breaker/nogfw/blob/master/binary/fg764p.zip?raw=true" targe="_blank">自由门PC版7.84</a> &nbsp; 
+<a href="https://github.com/gfw-breaker/nogfw/blob/master/binary/fgma32.apk?raw=true" targe="_blank">自由门安卓版3.2</a>
 
-[自由门PC版7.84]() &nbsp; [自由门安卓版3.2]()
-
-[爱博电视PC版]() &nbsp; [新唐人电视安卓版]()
-
+<a href="https://github.com/gfw-breaker/nogfw/blob/master/binary/iPPOTV.zip?raw=true" targe="_blank">爱博电视PC版</a> &nbsp; 
+<a href="https://github.com/gfw-breaker/nogfw/blob/master/binary/NTD_TV.apk?raw=true" targe="_blank">新唐人电视安卓版</a>
