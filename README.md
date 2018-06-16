@@ -9,4 +9,3 @@
 <a href="https://github.com/gfw-breaker/nogfw/blob/master/binary/iPPOTV.zip?raw=true" targe="_blank">爱博电视PC版</a> &nbsp; 
 <a href="https://github.com/gfw-breaker/nogfw/blob/master/binary/iNTD_TV.apk?raw=true" targe="_blank">新唐人电视安卓版</a>
 
-<a href="http://8.6.8.89:10080/info/proxy.html" target="_blank">墙洞通用版</a> &nbsp;
