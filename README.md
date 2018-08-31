@@ -9,4 +9,6 @@
 <a href="https://github.com/gfw-breaker/nogfw/blob/master/binary/iPPOTV.zip?raw=true" targe="_blank">爱博电视PC版</a> &nbsp; 
 <a href="https://github.com/gfw-breaker/nogfw/blob/master/binary/iNTD_TV.apk?raw=true" targe="_blank">新唐人电视安卓版</a>
 
+#### 免翻墙看禁闻，请前往 [禁闻聚合](https://github.com/gfw-breaker/banned-news/blob/master/README.md)
+
 #### 更多翻墙姿势，请参考 [爱翻墙 wiki](https://github.com/gfw-breaker/i-break-gfw/wiki)
