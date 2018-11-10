@@ -12,7 +12,7 @@
 
 #### <a href="binary/iPPOTV.zip?raw=true" targe="_blank">爱博电视PC版</a> &nbsp;  &nbsp; <a href="binary/iNTD_TV.apk?raw=true" targe="_blank">新唐人电视安卓版</a>
 
-#### 更多翻墙姿势，请参考 [爱翻墙 wiki](https://github.com/gfw-breaker/i-break-gfw/wiki)
+#### 更多翻墙姿势，请参考 [爱翻墙 wiki](https://github.com/gfw-breaker/i-break-gfw/wiki); 如果您有Shadowsocks或SSR客户端，可前往[ssr-accounts](https://github.com/gfw-breaker/ssr-accounts) 获取免费账号
 
 -----
 #### 发行公告
