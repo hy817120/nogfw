@@ -6,7 +6,7 @@
 
 #### <a href="binary/u1901.zip?raw=true" targe="_blank">无界PC版19.01</a> &nbsp;  &nbsp; <a href="binary/um4.5.apk?raw=true" targe="_blank">无界安卓版4.5</a>
 
-#### <a href="binary/fg764p.zip?raw=true" targe="_blank">自由门PC版7.84</a> &nbsp;  &nbsp; <a href="binary/fgma32.apk?raw=true" targe="_blank">自由门安卓版3.2</a>
+#### <a href="binary/fg765p.zip?raw=true" targe="_blank">自由门PC版7.65</a> &nbsp;  &nbsp; <a href="binary/fgma32.apk?raw=true" targe="_blank">自由门安卓版3.2</a>
 
 #### <a href="https://raw.githubusercontent.com/oGate2/up/master/oGate.apk" target="_blank">网门安卓版</a> &nbsp;  &nbsp; <a href="https://github.com/oGate2/oGate/blob/master/README.md" target="_blank">网门Web版</a>
 
@@ -17,6 +17,7 @@
 -----
 #### 发行公告
 
+##### 2019-02-13： 更新自由门PC版7.65
 ##### 2019-01-27： 更新无界PC版19.01
 ##### 2018-11-07： 更新无界PC版18.5
 ##### 2018-09-19： 更新无界PC版18.4
