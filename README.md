@@ -2,7 +2,6 @@
 
 ##### 国产手机下载或安装时可能会提示有病毒或其它警告，敬请忽略。中共政府靠谎言和暴力维持政权，最害怕民众了解真实的信息，所以对各互联网公司、杀毒软件公司、手机厂商施加压力：微信、浏览器会把政府不愿让民众看到的内容标记为“违法违规”，杀毒会把翻墙软件标记为病毒等等，目的在于恐吓民众从而主动放弃了解被它掩盖的真相。
 
-##### 精彩节目 &nbsp;- [《天亮时分》](http://178.128.179.203/tianliang/) | [《文昭谈古论今》](http://178.128.179.203/wenzhao/) | [《历史上的今天》](http://178.128.179.203/today-in-history/) |[《大陆新闻解读》](http://178.128.179.203/ntdtv-comedy/) | [《热点互动》](http://178.128.179.203/ntdtv-rdhd/)  | [《中国禁闻》](http://178.128.179.203/ntdtv-news/)
 
 ##### 如果您实在不信任我提供的软件， 可以通过 [open-proxy](https://github.com/gfw-breaker/ssr-accounts/blob/master/README.md) 或 [禁闻聚合](https://github.com/gfw-breaker/banned-news/blob/master/README.md) 免翻墙直接看禁闻
 
