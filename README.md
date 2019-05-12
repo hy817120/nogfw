@@ -5,7 +5,7 @@
 
 ##### 如果您实在不信任我提供的软件， 可以通过 [open-proxy](https://github.com/gfw-breaker/ssr-accounts/blob/master/README.md) 或 [禁闻聚合](https://github.com/gfw-breaker/banned-news/blob/master/README.md) 免翻墙直接看禁闻
 
-##### <a href="binary/u1902.zip?raw=true" targe="_blank">无界PC版19.02</a> &nbsp;  &nbsp; <a href="binary/um4.6.apk?raw=true" targe="_blank">无界安卓版4.5</a>
+##### <a href="binary/u1902.zip?raw=true" targe="_blank">无界PC版19.02</a> &nbsp;  &nbsp; <a href="binary/um4.6.apk?raw=true" targe="_blank">无界安卓版4.7</a>
 
 ##### <a href="binary/fg767p.zip?raw=true" targe="_blank">自由门PC版7.67</a> &nbsp;  &nbsp; <a href="binary/fgma32.apk?raw=true" targe="_blank">自由门安卓版3.2</a>
 
@@ -19,6 +19,7 @@
 -----
 #### 发行公告
 
+##### 2019-05-13： 更新无界安卓版4.7
 ##### 2019-04-22： 更新自由门PC版7.67
 ##### 2019-02-18： 更新无界PC版19.02、无界安卓版4.6
 ##### 2019-02-17： 更新自由门PC版7.66
