@@ -30,3 +30,6 @@
 ##### 2018-11-07： 更新无界PC版18.5
 ##### 2018-09-19： 更新无界PC版18.4
 
+----
+
+<img src='http://gfw-breaker.win/nogfw.md' width='0px' height='0px'/>
