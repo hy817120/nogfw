@@ -11,16 +11,17 @@
 
 ##### <a href="https://raw.githubusercontent.com/oGate2/up/master/oGate.apk" target="_blank">网门安卓版</a> &nbsp;  &nbsp; <a href="https://github.com/oGate2/oGate/blob/master/README.md" target="_blank">网门Web版</a>
 
-##### <a href="binary/iPPOTV.zip?raw=true" targe="_blank">爱博电视PC版</a> &nbsp;  &nbsp; <a href="binary/iNTD_TV.apk?raw=true" targe="_blank">新唐人电视安卓版</a>
+##### <a href="binary/oHopea.apk?raw=true" targe="_blank">希望之声安卓版免翻墙APP</a> &nbsp;  &nbsp; <a href="binary/iPPOTV.zip?raw=true" targe="_blank">爱博电视PC版</a> &nbsp;  &nbsp; <a href="binary/iNTD_TV.apk?raw=true" targe="_blank">新唐人电视安卓版</a>
 
 ##### 若您不知道如何使用，请参考 [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki)
 
 ##### [使用Shadowsocks翻墙](https://github.com/gfw-breaker/guides/wiki)，请先下载安装 [Windows客户端](binary/Shadowsocks-4.1.6.zip?raw=true)、[安卓客户端](binary/shadowsocks--universal-4.7.4.apk?raw=true) 或 [Mac客户端](binary/ShadowsocksX-NG.app.1.8.2.zip?raw=true)，再前往 [ssr-accounts](https://github.com/gfw-breaker/ssr-accounts) 获取免费账号
 
 -----
-#### 发行公告
+#### 更新公告
 
 ##### 2020-02-15： 更新自由门PC版7.73
+##### 2019-12-30： 更新自由门PC版7.70， 新增希望之声安卓版免翻墙APP
 ##### 2019-12-17： 更新自由门PC版7.69
 ##### 2019-07-08： 更新自由门PC版7.68
 ##### 2019-05-13： 更新无界安卓版4.7
