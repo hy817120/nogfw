@@ -6,7 +6,7 @@
 ##### 如果您实在不信任我提供的软件， 可以通过 [禁闻聚合](https://github.com/gfw-breaker/banned-news1/blob/master/README.md) 免翻墙直接看禁闻
 
 
-##### [新唐人电视直播](http://157.245.225.152/) &nbsp;  &nbsp; <a href="http://157.245.225.152:10000/videos/sw/fg774p.zip?raw=true" targe="_blank">自由门PC版7.74</a> &nbsp;  &nbsp; <a href="http://157.245.225.152:10000/videos/sw/fgma32.apk?raw=true" targe="_blank">自由门安卓版3.2</a>
+##### [新唐人电视直播](http://157.245.225.152/) &nbsp;  &nbsp; <a href="http://157.245.225.152:10000/videos/sw/fg775p.zip?raw=true" targe="_blank">自由门PC版7.75</a> &nbsp;  &nbsp; <a href="http://157.245.225.152:10000/videos/sw/fgma32.apk?raw=true" targe="_blank">自由门安卓版3.2</a>
 
 ##### <a href="http://157.245.225.152:10000/videos/sw/u1902.zip?raw=true" targe="_blank">无界PC版19.02</a> &nbsp;  &nbsp; <a href="http://157.245.225.152:10000/videos/sw/um4.7.apk?raw=true" targe="_blank">无界安卓版4.7</a> &nbsp;  &nbsp; <a href="http://157.245.225.152:10000/videos/sw/ul?raw=true" targe="_blank">无界Linux版17.03</a>
 
@@ -21,6 +21,7 @@
 -----
 #### 更新公告
 
+##### 2020-02-29： 更新自由门PC版7.75
 ##### 2020-02-26： 更新自由门PC版7.74
 ##### 2020-02-15： 更新自由门PC版7.73
 ##### 2019-12-30： 更新自由门PC版7.70， 新增希望之声安卓版免翻墙APP
