@@ -6,7 +6,7 @@
 ##### 如果您实在不信任我提供的软件， 可以通过 [禁闻聚合](https://github.com/gfw-breaker/banned-news1/blob/master/README.md) 免翻墙直接看禁闻
 
 
-##### [新唐人电视直播](http://45.63.99.118/) &nbsp;  &nbsp; <a href="http://45.63.99.118:10000/videos/sw/fg778p.zip?raw=true" targe="_blank">自由门PC版7.78</a> &nbsp;  &nbsp; <a href="http://45.63.99.118:10000/videos/sw/fgma40.apk?raw=true" targe="_blank">自由门安卓版4.0</a>
+##### [新唐人电视直播](http://157.245.225.152/) &nbsp;  &nbsp; <a href="http://157.245.225.152:10000/videos/sw/fg778p.zip?raw=true" targe="_blank">自由门PC版7.78</a> &nbsp;  &nbsp; <a href="http://157.245.225.152:10000/videos/sw/fgma41b1.apk?raw=true" targe="_blank">安卓版 4.1测试版</a>
 
 ##### <a href="http://45.63.99.118:10000/videos/sw/u1902.zip?raw=true" targe="_blank">无界PC版19.02</a> &nbsp;  &nbsp; <a href="http://45.63.99.118:10000/videos/sw/um4.7.apk?raw=true" targe="_blank">无界安卓版4.7</a> &nbsp;  &nbsp; <a href="http://45.63.99.118:10000/videos/sw/ul?raw=true" targe="_blank">无界Linux版17.03</a>
 
@@ -21,6 +21,7 @@
 -----
 #### 更新公告
 
+##### 2020-03-26:  更新自由门安卓版 4.1测试版
 ##### 2020-03-20： 更新自由门PC版7.78, 自由门安卓版4.0
 ##### 2020-03-06： 更新自由门PC版7.76
 ##### 2020-02-29： 更新自由门PC版7.75
