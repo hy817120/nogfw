@@ -6,7 +6,7 @@
 ##### 如果您实在不信任我提供的软件， 可以通过 [禁闻聚合](https://github.com/gfw-breaker/banned-news1/blob/master/README.md) 免翻墙直接看禁闻
 
 
-##### [新唐人电视直播](http://136.244.78.252/) &nbsp;  &nbsp; <a href="http://136.244.78.252:10000/videos/sw/fg779p.zip?raw=true" targe="_blank">自由门PC版7.79</a> &nbsp;  &nbsp; <a href="http://136.244.78.252:10000/videos/sw/fgma42.apk?raw=true" targe="_blank">安卓版 4.2</a>
+##### [新唐人电视直播](http://136.244.78.252/) &nbsp;  &nbsp; <a href="http://136.244.78.252:10000/videos/sw/fg780p.zip?raw=true" targe="_blank">自由门PC版7.80</a> &nbsp;  &nbsp; <a href="http://136.244.78.252:10000/videos/sw/fgma42.apk?raw=true" targe="_blank">安卓版 4.2</a>
 
 ##### <a href="http://136.244.78.252:10000/videos/sw/u1902.zip?raw=true" targe="_blank">无界PC版19.02</a> &nbsp;  &nbsp; <a href="http://136.244.78.252:10000/videos/sw/um4.7.apk?raw=true" targe="_blank">无界安卓版4.7</a> &nbsp;  &nbsp; <a href="http://136.244.78.252:10000/videos/sw/ul?raw=true" targe="_blank">无界Linux版17.03</a>
 
