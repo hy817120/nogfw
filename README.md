@@ -8,7 +8,7 @@
 
 ##### [新唐人电视直播](http://136.244.78.252/) &nbsp;  &nbsp; <a href="http://136.244.78.252:10000/videos/sw/fg783p.zip?raw=true" targe="_blank">自由门PC版7.83</a> &nbsp;  &nbsp; <a href="http://136.244.78.252:10000/videos/sw/fgma42.apk?raw=true" targe="_blank">安卓版 4.2</a>
 
-##### <a href="http://136.244.78.252:10000/videos/sw/u1902.zip?raw=true" targe="_blank">无界PC版19.02</a> &nbsp;  &nbsp; <a href="http://136.244.78.252:10000/videos/sw/um4.7.apk?raw=true" targe="_blank">无界安卓版4.7</a> &nbsp;  &nbsp; <a href="http://136.244.78.252:10000/videos/sw/ul?raw=true" targe="_blank">无界Linux版17.03</a>
+##### <a href="http://136.244.78.252:10000/videos/sw/u1902.zip?raw=true" targe="_blank">无界PC版19.02</a> &nbsp;  &nbsp; <a href="http://136.244.78.252:10000/videos/sw/um4.8.apk?raw=true" targe="_blank">无界安卓版4.8</a> &nbsp;  &nbsp; <a href="http://136.244.78.252:10000/videos/sw/ul?raw=true" targe="_blank">无界Linux版17.03</a>
 
 ##### <a href="http://136.244.78.252:10000/videos/sw/oGate.apk" target="_blank">网门安卓版</a> &nbsp;  &nbsp; <a href="https://github.com/oGate2/oGate/blob/master/README.md" target="_blank">网门Web版</a>
 
